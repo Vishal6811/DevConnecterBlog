@@ -2,7 +2,7 @@
 
 DevConnector is a Social Network For Developers. In this Project I have used Django and Django-Rest-Framework for Backend and React For Frontend.
 
-### Demo of this site available here [DevConnector Demo](https://devconn.netlify.com)
+<!-- ### Demo of this site available here [DevConnector Demo](https://devconn.netlify.com) -->
 
 ## Frontend( React )
 
@@ -50,12 +50,12 @@ To install requirements type
 ```
 pip install -r requirements.txt
 ```
-
+<!-- 
 `To use Github api put your credentials in settings.py`
 
 ```
 GIT_CLIENT_ID = 'your github client id'
-GIT_CLIENT_SECRET = 'your github client secret'
+GIT_CLIENT_SECRET = 'your github client secret' -->
 ```
 
 To migrate the database open terminal in project directory and type
